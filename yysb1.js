@@ -116,7 +116,7 @@ $(document).ready(function () {
       url: "https://cat-match.easygame2021.com/sheep/v1/game/user_info",
       data: {
         uid: uid,
-        t: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTQzNDA0ODQsIm5iZiI6MTY2MzIzODI4NCwiaWF0IjoxNjYzMjM2NDg0LCJqdGkiOiJDTTpjYXRfbWF0Y2g6bHQxMjM0NTYiLCJvcGVuX2lkIjoiIiwidWlkIjo2MzI4MTExOSwiZGVidWciOiIiLCJsYW5nIjoiIn0.u4Ufyh5p6HH1CcN0vkYek8kyildeQXsf7tBMiftlIBk",
+        t: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTQzMDg0MTksIm5iZiI6MTY2MzIwNjIxOSwiaWF0IjoxNjYzMjA0NDE5LCJqdGkiOiJDTTpjYXRfbWF0Y2g6bHQxMjM0NTYiLCJvcGVuX2lkIjoiIiwidWlkIjo2MzI4MTExOSwiZGVidWciOiIiLCJsYW5nIjoiIn0.2xMaY8k7eJsORe4O0vMBnrz-Ukhvigld8T3ZS4G8pzM",
         "content-type": "application/json",
         "User-Agent":
           "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.28(0x18001c26) NetType/WIFI Language/zh_CN"
@@ -134,7 +134,7 @@ $(document).ready(function () {
             avatar: "1",
             nick_name: "1",
             sex: "1",
-            t: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTQzNDA0ODQsIm5iZiI6MTY2MzIzODI4NCwiaWF0IjoxNjYzMjM2NDg0LCJqdGkiOiJDTTpjYXRfbWF0Y2g6bHQxMjM0NTYiLCJvcGVuX2lkIjoiIiwidWlkIjo2MzI4MTExOSwiZGVidWciOiIiLCJsYW5nIjoiIn0.u4Ufyh5p6HH1CcN0vkYek8kyildeQXsf7tBMiftlIBk",
+            t: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTQzMDg0MTksIm5iZiI6MTY2MzIwNjIxOSwiaWF0IjoxNjYzMjA0NDE5LCJqdGkiOiJDTTpjYXRfbWF0Y2g6bHQxMjM0NTYiLCJvcGVuX2lkIjoiIiwidWlkIjo2MzI4MTExOSwiZGVidWciOiIiLCJsYW5nIjoiIn0.2xMaY8k7eJsORe4O0vMBnrz-Ukhvigld8T3ZS4G8pzM",
             "content-type": "application/json",
             "User-Agent":
               "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.28(0x18001c26) NetType/WIFI Language/zh_CN"
